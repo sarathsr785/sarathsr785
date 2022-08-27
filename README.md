@@ -1,6 +1,7 @@
 # 💫 About Me:
 Experiential learning
 
+![image](https://user-images.githubusercontent.com/59958337/187043051-80c707fb-a53c-4151-b067-ec22e27b0d5f.png)
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/sarathsr) 
